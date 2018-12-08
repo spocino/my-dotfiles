@@ -10,8 +10,6 @@ set listchars=tab:\|\
 set list " indentation marks
 " }}}
 " UI {{{
-let g:powerline_pycmd="py3"
-set laststatus=2                        " show powerline
 set showcmd                             " show command
 syntax enable                           " syntax highlighting
 set number relativenumber               " show line numbers
