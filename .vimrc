@@ -24,7 +24,6 @@ filetype indent on                      " load filetype-specific indentation
 set lazyredraw
 set showmatch                           " show matching brackets
 set cc=80                               " marking at 80 characters
-execute pathogen#infect()
 " }}}
 " SEARCH {{{
 
